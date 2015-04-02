@@ -1,0 +1,7 @@
+C:\Users\s300ca\Documents\Winter 2015\CS312\TSPBranchAndBound-Winter2010\TSP\bin\Release\TSP.exe
+C:\Users\s300ca\Documents\Winter 2015\CS312\TSPBranchAndBound-Winter2010\TSP\bin\Release\TSP.pdb
+C:\Users\s300ca\Documents\Winter 2015\CS312\TSPBranchAndBound-Winter2010\TSP\obj\Release\TSP.Form1.resources
+C:\Users\s300ca\Documents\Winter 2015\CS312\TSPBranchAndBound-Winter2010\TSP\obj\Release\TSP.Properties.Resources.resources
+C:\Users\s300ca\Documents\Winter 2015\CS312\TSPBranchAndBound-Winter2010\TSP\obj\Release\TSP.csproj.GenerateResource.Cache
+C:\Users\s300ca\Documents\Winter 2015\CS312\TSPBranchAndBound-Winter2010\TSP\obj\Release\TSP.exe
+C:\Users\s300ca\Documents\Winter 2015\CS312\TSPBranchAndBound-Winter2010\TSP\obj\Release\TSP.pdb
